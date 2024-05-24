@@ -1,0 +1,25 @@
+{
+  "name": "vanillarjs_as_react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server --port=8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PakaOxO/vanillarJS_as_react.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PakaOxO/vanillarJS_as_react/issues"
+  },
+  "homepage": "https://github.com/PakaOxO/vanillarJS_as_react#readme",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  },
+  "type": "module"
+}
+
